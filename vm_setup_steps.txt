@@ -1,0 +1,16 @@
+
+
+
+Verified Python installation using:
+python3 --version
+Verified pip installation using:
+pip3 --version
+Installed Jupyter Notebook:
+pip install notebook
+Installed required libraries:
+pip install numpy pandas matplotlib
+Created project folders using mkdir command.
+Opened Jupyter Notebook using:
+jupyter notebook
+Verified Git installation using:
+git --version
